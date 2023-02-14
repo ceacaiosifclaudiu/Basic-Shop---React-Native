@@ -1,4 +1,4 @@
-# Rick and Morty
+# Basic Shop
 
 This is a basic shop made with react native
 
